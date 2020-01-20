@@ -1,0 +1,39 @@
+
+.serchLine{
+    width: 95%;
+    height: 40px;
+    margin: 20px auto 0px auto;
+    border: 1px solid #e3e3e3;
+    border-radius: 20px;
+    padding-left: 4%;
+    font-size: 20px;
+    color:#343a40;
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+}
+.serchLineAcrive{
+    width: 95%;
+    height: 40px;
+    margin: 20px auto 0px auto;
+    border: 1px solid #e3e3e3;
+    border-radius: 20px 20px 0 0;
+    padding-left: 4%;
+    font-size: 20px;
+    color:#343a40;
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+}
+.search{
+    width: 60%;
+    margin: 0 auto;
+}
+.searchIcon {
+    position: relative;
+    z-index: 1;
+    left: 15px;
+    font-size: 20px;
+    color: #7B7B7B;
+    cursor:pointer;
+    width: 0;
+}
+.active{
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+}

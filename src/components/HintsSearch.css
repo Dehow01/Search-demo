@@ -1,0 +1,27 @@
+.resultUl{
+    width: 99%;
+    margin: 0 auto;
+    background-color: white;
+    border:1px solid #e3e3e3;
+    border-radius: 0 0 20px 20px;
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+}
+ul{
+    text-align: left;
+    list-style-type: none;
+    font-size: 18px;
+    font-weight:500 ;
+    padding-left: 0;
+    color: grey;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+li{
+    padding: 5px 10px 5px 40px;
+}
+.searchResultHide{
+    display: none;
+}
+.SelectLink{
+    background-color: #eee;
+}
